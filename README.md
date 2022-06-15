@@ -1,8 +1,9 @@
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBV29e1qoXl0oZNGA7peHJCIhTXDEZXr-OOv5tV8QW7nZlLDrG9ebahZj-6ShT74gGH_0&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Linda</h1>
 <h3 align="center">I'm crazy about the cloud and it's environs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code0xy&label=Profile%20views&color=0e75b6&style=flat" alt="code0xy" /> </p>
-
+img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Wy6fnpoTpzFbBer3AHg2v7vZie6LvoXrBEtKUhQmN0ONMjn8zDUVB6_Ki8RJvOnqNdM&usqp=CAU"
 
 
 <p align="left"> <a href="https://twitter.com/code0xy" target="blank"><img src="https://img.shields.io/twitter/follow/code0xy?logo=twitter&style=for-the-badge" alt="code0xy" /></a> </p>
